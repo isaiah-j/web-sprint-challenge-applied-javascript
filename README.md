@@ -27,14 +27,24 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+It's the entire web page converted into JS Objects
+
+
 
 2. What is an event?
+User interaction
+
 
 3. What is an event listener?
+Waits for the user interaction
+
 
 4. Why would we convert a NodeList into an Array?
 
+A NodeList doesn't have the same amount of features
+
 5. What is a component?
+Reusable piece of code
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
